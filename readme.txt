@@ -1,8 +1,9 @@
 * Linear Regression
-* SVM
+* SVM (https://www.youtube.com/watch?v=efR1C6CvhmE)
 * logistic regression
 * Back propagation
-* ROC & Confusion matirx (recall, precision, f-score, sesitivity)
+* ROC, AUC & Confusion matirx (recall, precision, f-score, sesitivity)
+  (https://www.youtube.com/watch?v=4jRBRDbJemM)
 * Gradient Decent
 * Decision Tree (https://www.youtube.com/watch?v=7VeUPuFGJHk)
 * Regression Tree (Bagging & feature selection) (https://www.youtube.com/watch?v=g9c66TUylZ4)
