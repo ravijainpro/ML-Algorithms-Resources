@@ -16,3 +16,10 @@
   (https://www.youtube.com/watch?v=HMOI_lkzW08)
   (https://www.youtube.com/watch?v=FgakZw6K1QQ)
 * DLA (Discriminant Linear Analysis)
+
+
+
+
+DL
+*RNN
+*LSTM
