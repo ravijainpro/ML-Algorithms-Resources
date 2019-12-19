@@ -1,6 +1,7 @@
 * Linear Regression
 * SVM (https://www.youtube.com/watch?v=efR1C6CvhmE)
 * logistic regression
+  (https://www.youtube.com/watch?v=yIYKR4sgzI8)
 * Back propagation
 * ROC, AUC & Confusion matirx (recall, precision, f-score, Sensitivity and Specificity)
   ROC & AUC-(https://www.youtube.com/watch?v=4jRBRDbJemM)
