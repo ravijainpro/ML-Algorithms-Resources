@@ -29,7 +29,7 @@
 =======DL========
 * RNN
   (https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7)
-    -wordToVector (Word Embedding)
+    -Word Embedding Techniques:-
       (https://www.tensorflow.org/tutorials/text/word_embeddings)
       
 *LSTM
