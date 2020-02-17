@@ -21,6 +21,7 @@
 
 ==SPECTRAL CLUSTERING===
 https://www.youtube.com/watch?v=zkgm0i77jQ8
+https://www.youtube.com/watch?v=P-LEH-AFovE
 https://towardsdatascience.com/spectral-clustering-82d3cff3d3b7
 https://towardsdatascience.com/spectral-clustering-aba2640c0d5b
 https://en.wikipedia.org/wiki/Laplacian_matrix
