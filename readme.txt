@@ -33,6 +33,8 @@ http://ijcsit.com/docs/Volume%206/vol6issue01/ijcsit2015060141.pdf
 * GradientBoostMethod (gbm)
 * XGBoost
 
+*N-Gram and TF-IDF Model
+https://medium.com/machine-learning-intuition/document-classification-part-2-text-processing-eaa26d16c719
 
 
 =======DL========
